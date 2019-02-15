@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#include "Tree.h"
+#include "utilities/Tree.h"
 
 using namespace std;
 
